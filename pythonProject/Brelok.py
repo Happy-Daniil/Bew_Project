@@ -103,3 +103,10 @@ def callback_worker(call):
         bot.send_message(message.chat.id, 'В таком случае, тебе требуется снова пройти процедуру оформления заказа. Для этого введи в чат "Купить"')
 
 bot.polling(none_stop=True)
+
+def f(x, y)
+    return x**2 + y**2
+
+
+    
+    
